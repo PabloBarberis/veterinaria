@@ -1,0 +1,12 @@
+com\todocode\veterinaria\repository\IMascotaRepository.class
+com\todocode\veterinaria\model\MascotaDuenoDTO.class
+com\todocode\veterinaria\VeterinariaApplication.class
+com\todocode\veterinaria\services\IMascotaService.class
+com\todocode\veterinaria\controller\MascotaController.class
+com\todocode\veterinaria\model\Mascota.class
+com\todocode\veterinaria\repository\IDuenoRepository.class
+com\todocode\veterinaria\model\Dueno.class
+com\todocode\veterinaria\controller\DuenoController.class
+com\todocode\veterinaria\services\IDuenoService.class
+com\todocode\veterinaria\services\DuenoService.class
+com\todocode\veterinaria\services\MascotaService.class
